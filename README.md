@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-data-project
-#my first project with R
+my first project with R
 
 setwd("D:/R/Getting_and_Cleaning_Data_Course/course project")
 
